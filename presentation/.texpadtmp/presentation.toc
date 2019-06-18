@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Virtual machine vs container}{4}{0}{1}
+\beamer@sectionintoc {2}{Hur s\IeC {\"a}tter man upp en docker-kontainer?}{8}{0}{2}
+\beamer@sectionintoc {3}{Exempel}{11}{0}{3}
